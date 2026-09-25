@@ -1,4 +1,4 @@
-\# CodingWise GenAI \& LLM Engineering
+# CodingWise GenAI \& LLM Engineering
 
 
 
@@ -6,7 +6,7 @@ Practice notebooks and projects from the CodingWise "Generative AI \& LLM Engine
 
 
 
-\## About
+## About
 
 
 
@@ -14,7 +14,7 @@ This repo tracks my hands on work through the course. Everything here started as
 
 
 
-\## Projects
+## Projects
 
 
 
@@ -22,17 +22,17 @@ This repo tracks my hands on work through the course. Everything here started as
 
 |---------|-------------|--------|
 
-| ATS\_Resume\_CodingWise | Resume analysis / ATS matching project | In progress |
+| ATS_Resume_CodingWise | Resume analysis / ATS matching project | In progress |
 
-| Health\_Based\_App | Health domain GenAI application | In progress |
+| Health_Based_App | Health domain GenAI application | In progress |
 
-| CodingWise\_OpenAI\_API\_Integration | OpenAI API fundamentals, roles, messages, parameters | Complete |
-
-
+| CodingWise_OpenAI_API_Integration | OpenAI API fundamentals, roles, messages, parameters | Complete |
 
 
 
-\## Tech Stack
+
+
+## Tech Stack
 
 
 
@@ -40,11 +40,11 @@ Python, OpenAI API, LangChain, Hugging Face, Jupyter/Colab
 
 
 
-\## Author
+## Author
 
 
 
 Garvit Mathur
 
-\[LinkedIn](https://linkedin.com/in/garvitai) · \[GitHub](https://github.com/tymepas)
+[LinkedIn](https://linkedin.com/in/garvitai) · [GitHub](https://github.com/tymepas)
 
