@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+ATS_Resume_CodingWise/
+Health_Based_App/
